@@ -6,6 +6,6 @@ public class Program {
             System.out.print(num[i]+" ");
         }
         System.out.println("Done");
-        System.out.println("array progrsam");
+        System.out.println("array sort program");
     }
 }
